@@ -1,6 +1,6 @@
-# LP5_Projeto_Base
+# LP5_Flyweight
 
-Este projeto visa servir como base para as atividades feitas para a disciplina de Linguagem de Programação 5, que tem como intuito desenvolver padrões de projeto em java, incluindo testes e diagramas de classe como documentação.
+O projeto exibe milhares de variações de produtos de um e-commerce economizando muita memória RAM através do padrão **Flyweight**. Ele faz isso ao compartilhar dados pesados e repetitivos (como marca e material) num cache único, instanciando individualmente apenas as informações únicas de cada item (como tamanho e preço).
 
 ## Diagrama de Classe
 
